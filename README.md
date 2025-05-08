@@ -2,6 +2,8 @@
 
 Frontend 연습을 위한 샘플용 todo 백엔드입니다.
 
+환경변수 `H2_PASSWORD`를 설정한 후 실행하는 것을 권장합니다.
+
 ## 구성
 
 크게 User, UserToken, Task 세 가지 요소로 구성됩니다.
